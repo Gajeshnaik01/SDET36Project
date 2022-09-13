@@ -6,6 +6,7 @@ public class HomePageTest {
 		System.out.println("username");
 		System.out.println("password");
 		System.out.println("Login");
+		System.out.println("Logout");
 
 	}
 
